@@ -78,11 +78,17 @@
 	// 	component: './ScheduleManagement',
 	// 	icon: 'CalendarOutlined',
 	// },
+	// {
+	// 	path: '/quanlynhanvien',
+	// 	name: 'Quản lý nhân viên',
+	// 	component: './QuanLyNhanVien',
+	// 	icon: 'UserOutlined',
+	// },
 	{
-		path: '/quanlynhanvien',
-		name: 'Quản lý nhân viên',
-		component: './QuanLyNhanVien',
-		icon: 'UserOutlined',
+		path: '/quanlyungvien',
+		name: 'Quản lý ứng viên',
+		component: './QuanLyUngVien',
+		icon: 'UserAddOutlined',
 	},
 
 	// DANH MUC HE THONG
