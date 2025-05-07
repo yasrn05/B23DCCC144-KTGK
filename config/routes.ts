@@ -90,11 +90,17 @@
 	// 	component: './QuanLyUngVien',
 	// 	icon: 'UserAddOutlined',
 	// },
+	// {
+	// 	path: '/quanlylichtrinhdulich',
+	// 	name: 'Quản lý lịch trình du lịch',
+	// 	component: './QuanLyLichTrinhDuLich',
+	// 	icon: 'CalendarOutlined',
+	// },
 	{
-		path: '/quanlylichtrinhdulich',
-		name: 'Quản lý lịch trình du lịch',
-		component: './QuanLyLichTrinhDuLich',
-		icon: 'CalendarOutlined',
+		path: '/quanlycongviec',
+		name: 'Quản lý công việc',
+		component: './QuanLyCongViec',
+		icon: 'FileDoneOutlined',
 	},
 
 	// DANH MUC HE THONG
